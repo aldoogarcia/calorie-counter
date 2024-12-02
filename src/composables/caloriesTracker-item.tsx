@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+import { useMemo } from "react";
 import CaloriesDisplay from "./caloriesDisplay-item";
 import { Activitys } from "../types/Type";
 
